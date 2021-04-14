@@ -1,0 +1,33 @@
+a {						селектор{
+   color:...;						свойство:значение;
+} -Изменить стиль ссылки 
+(Цвет ссылки,все ссылки меняет)			{
+
+<link href="" rel="stylesheet" type="text/css"/>
+(Подключение HTML к CSS)
+
+a{ 
+  font-size:...; (16px и.т.п)
+}
+(Размер ссылки)
+id-Индификатор (Цифры в начале нельзя)
+#id {
+ color:...;
+}
+
+class=""
+.(class) {
+color:...;
+border:...;(рамка) 1px solid ...(цвет)
+}
+
+margin-отступ (10px)
+bottom-снизу
+up-сверху
+left-слева
+right-справа
+padding-Внутренний отступ
+
+
+<link rel="stylesheet" type="text/css" href="Психотип2.css">
+<img align="right" src="https://blog.wikium.ru/wp-content/uploads/2020/03/shutterstock_1059222431.jpg" width="1000">
